@@ -1,4 +1,4 @@
-# flutter_screens
+# flutter
 
 A new Flutter project.
 
